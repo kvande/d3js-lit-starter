@@ -1,0 +1,20 @@
+{
+  "name": "d3js-lit-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/d3-selection": "^3.0.5",
+    "d3-selection": "^3.0.0",
+    "lit": "^2.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.3.2"
+  }
+}
